@@ -1,0 +1,7 @@
+{
+  "name": "sentry-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
